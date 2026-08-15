@@ -1,0 +1,20 @@
+{
+  "id": 12345678,
+  "name": "Ricescapes",
+  "author": "izestiah",
+  "creators": ["izestiah"],
+  "verifier": "izestiah",
+  "verification": "https://youtu.be/iv_d4fVjZls?si=7QNpwblUubeb1J7n",
+  "percentToQualify": 100,
+  "password": "Free to Copy",
+  "song": "creo - Slow Down",
+  "records": [
+    {
+      "user": "izestiah",
+      "link": "https://youtu.be/iv_d4fVjZls?si=7QNpwblUubeb1J7n",
+      "percent": 100,
+      "hz": 240,
+      "mobile": true
+    }
+  ]
+}
