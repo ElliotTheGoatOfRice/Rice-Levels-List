@@ -15,6 +15,13 @@
       "percent": 100,
       "hz": 240,
       "mobile": true
+    },
+      {
+      "user": "Elfik",
+      "link": "https://youtu.be/iv_d4fVjZls?si=7QNpwblUubeb1J7n",
+      "percent": 100,
+      "hz": 240,
+      "mobile": false
     }
   ]
 }
