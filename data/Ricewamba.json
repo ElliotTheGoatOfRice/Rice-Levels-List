@@ -1,20 +1,20 @@
-
-  "id": 146091634,
-  "name": "Beach Wave",
-  "author": "BHKris",
-  "creators": ["BHKris"],
-  "verifier": "BHKris",
-  "verification": "https://www.youtube.com/shorts/IsJ9W0YdAWQ",
+{
+  "id": 147014748,
+  "name": "Ricewamba",
+  "author": "Shrieek",
+  "creators": ["Shrieek"],
+  "verifier": "Shrieek",
+  "verification": "https://youtu.be/KObl0OM9y_U?si=oyntBUE_eB50ag6W",
   "percentToQualify": 100,
   "password": "Free to Copy",
-  "song": "Tidal Wave(Shiawase VIP Version)",
+  "song": "idk",
   "records": [
     {
-      "user": "BHKris",
-      "link": "https://www.youtube.com/shorts/IsJ9W0YdAWQ",
+      "user": "Shrieek",
+      "link": "https://youtu.be/KObl0OM9y_U?si=oyntBUE_eB50ag6W",
       "percent": 100,
       "hz": 240,
-      "mobile": false
+      "mobile": ture
     }
   ]
 }
