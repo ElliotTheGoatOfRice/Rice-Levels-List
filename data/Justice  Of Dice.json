@@ -1,1 +1,20 @@
-
+{
+  "id": 147157956,
+  "name": "Justice Of Dice",
+  "author": "Shrieek",
+  "creators": ["Shrieek"],
+  "verifier": "Shrieek",
+  "verification": "https://youtu.be/7trHPmj6yWg",
+  "percentToQualify": 100,
+  "password": "Free to Copy",
+  "song": "creo - flow",
+  "records": [
+    {
+      "user": "Shrieek",
+      "link": "https://youtu.be/7trHPmj6yWg",
+      "percent": 100,
+      "hz": 240,
+      "mobile": false
+    }
+  ]
+}
