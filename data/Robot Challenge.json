@@ -1,1 +1,18 @@
-
+{
+  "id": 146135710,
+  "name": "Ricescapes",
+  "author": "izestiah",
+  "creators": ["izestiah"],
+  "verifier": "izestiah",
+  "verification": "https://www.youtube.com/watch?v=4ipIAobs5E8",
+  "percentToQualify": 100,
+  "password": "Free to Copy",
+  "song": "genuine Computer Music",
+  "records": [
+    {
+      "user": "izestiah",
+      "link": "https://www.youtube.com/watch?v=4ipIAobs5E8",
+      "percent": 100,
+      "hz": 240,
+      "mobile": true
+    },
