@@ -1,0 +1,20 @@
+{
+  "id": 147255166,
+  "name": "Day-Glo",
+  "author": "Izestiah",
+  "creators": ["Izestiah"],
+  "verifier": "Izestiah",
+  "verification": "https://www.youtube.com/watch?v=j56hiO_Xzbo",
+  "percentToQualify": 100,
+  "password": "Free to Copy",
+  "song": "Every end...",
+  "records": [
+    {
+      "user": "Izestiah",
+      "link": "https://www.youtube.com/watch?v=j56hiO_Xzbo",
+      "percent": 100,
+      "hz": 240,
+      "mobile": true
+    }
+  ]
+}
