@@ -1,1 +1,20 @@
-
+{
+  "id": 147275866,
+  "name": "Radio Frenzy",
+  "author": "Shrieek",
+  "creators": ["Shrieek"],
+  "verifier": "Shrieek",
+  "verification": "https://www.youtube.com/watch?v=-THpcyk0QJ8",
+  "percentToQualify": 100,
+  "password": "Free to Copy",
+  "song": "Stereo Madness remix",
+  "records": [
+    {
+      "user": "Shrieek",
+      "link": "https://www.youtube.com/watch?v=-THpcyk0QJ8",
+      "percent": 100,
+      "hz": 240,
+      "mobile": false
+    }
+  ]
+}
