@@ -1,1 +1,20 @@
-
+{
+  "id": 147563898,
+  "name": "Riceopolis",
+  "author": "Shrieek",
+  "creators": ["Shrieek"],
+  "verifier": "Shrieek",
+  "verification": "https://www.youtube.com/watch?v=qlcjvggNW_E",
+  "percentToQualify": 100,
+  "password": "Free to Copy",
+  "song": "Every end...",
+  "records": [
+    {
+      "user": "Shrieek",
+      "link": "https://www.youtube.com/watch?v=qlcjvggNW_E",
+      "percent": 100,
+      "hz": 240,
+      "mobile": true
+    }
+  ]
+}
