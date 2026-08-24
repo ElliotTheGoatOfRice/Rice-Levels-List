@@ -1,16 +1,16 @@
 {
   "id": 147522966,
   "name": "Thermodynamix",
-  "author": "Shrieek",
-  "creators": ["Shrieek"],
-  "verifier": "Shrieek",
+  "author": "S1ne",
+  "creators": ["S1ne"],
+  "verifier": "S1ne",
   "verification": "https://www.youtube.com/watch?v=Xvc4nTUGoqo",
   "percentToQualify": 100,
   "password": "Free to Copy",
   "song": "Thermodynamix",
   "records": [
     {
-      "user": "Shrieek",
+      "user": "S1ne",
       "link": "https://www.youtube.com/watch?v=Xvc4nTUGoqo",
       "percent": 100,
       "hz": 240,
