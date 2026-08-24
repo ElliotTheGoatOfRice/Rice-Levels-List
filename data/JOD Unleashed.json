@@ -1,16 +1,16 @@
 {
   "id": 147255166,
   "name": "JOD Unleashed",
-  "author": "Shrieek",
-  "creators": ["Shrieek"],
-  "verifier": "Shrieek",
+  "author": "S1ne",
+  "creators": ["S1ne"],
+  "verifier": "S1ne",
   "verification": "https://www.youtube.com/watch?v=yr6P0JdnIhM",
   "percentToQualify": 100,
   "password": "Free to Copy",
   "song": "Every end...",
   "records": [
     {
-      "user": "Shrieek",
+      "user": "S1ne",
       "link": "https://www.youtube.com/watch?v=yr6P0JdnIhM",
       "percent": 100,
       "hz": 240,
